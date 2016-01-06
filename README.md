@@ -75,6 +75,8 @@ Germany:
  - [rustaceans.cologne](http://rustaceans.cologne)
 * Hamburg:
  - [Rust Meetup Hamburg](http://www.meetup.com/Rust-Meetup-Hamburg)
+* Munich:
+ - [Rust Meetup Munich](http://www.meetup.com/rust-munich/)
 
 Japan:
 
