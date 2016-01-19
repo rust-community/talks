@@ -95,10 +95,10 @@ Sweden:
  
 United States:
 
-* Boulder/Denver, CO:
- - [Rust Boulder/Denver](http://www.meetup.com/Rust-Boulder-Denver/)
 * Boston,MA:
  - [Boston Rust](http://www.meetup.com/BostonRust/)
+* Boulder/Denver, CO:
+ - [Rust Boulder/Denver](http://www.meetup.com/Rust-Boulder-Denver/)
 * Brooklyn, NY:
  - [Brooklyn.rs](http://brooklyn.rs/)
 * Columbus, OH:
