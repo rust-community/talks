@@ -11,8 +11,7 @@ See below for some ideas.
 
 ## Proposing a talk
 
-Got an idea for a talk? Raise an issue with the details and label it with
-`proposal`, and we'll work with you from there.
+If you'd like to give a Rust-related talk, we're here to help. If you don't have a venue for your talk, we can get you in touch with leaders of local Rust meetups. If you don't have a topic, we can find something for you to talk about. If you do have a topic, we can try to find an existing pre-made talk that fits it. And if you already have a talk all planned, we can help proofread your slides. File an issue here with the details and label it with the `proposal` tag, and we'll work with you from there.
 
 ## Requesting a talk
 
