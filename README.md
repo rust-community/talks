@@ -104,6 +104,8 @@ United States:
  - [Columbus Rust Society](http://www.meetup.com/columbus-rs/)
 * Los Angeles, CA:
  - [Rust Los Angeles](http://www.meetup.com/Rust-Los-Angeles)
+* Manhattan, NY:
+ - [Rust NYC](http://www.meetup.com/Rust-NYC/)
 * Pittsburgh, PA:
  - [Pittsburgh Code Supply](http://www.meetup.com/Pittsburgh-Code-Supply/)
 * Portland, OR:
