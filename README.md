@@ -93,6 +93,8 @@ Sweden:
 
 * Skåne:
  - [Rust Skåne](http://www.meetup.com/rust-skane/)
+* Stockholm:
+ - [Rust Stockholm](http://www.meetup.com/stockholm-rustlang/)
  
 United States:
 
