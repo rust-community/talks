@@ -72,6 +72,8 @@ Germany:
  - [Rust Berlin](http://www.meetup.com/Rust-Berlin/)
 * Cologne/Bonn:
  - [rustaceans.cologne](http://rustaceans.cologne)
+* Frankfurt/Darmstadt:
+ - [Rhein-Main Rust Meetup](http://www.meetup.com/Rust-Rhein-Main)
 * Hamburg:
  - [Rust Meetup Hamburg](http://www.meetup.com/Rust-Meetup-Hamburg)
 * Munich:
