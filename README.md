@@ -82,7 +82,8 @@ Germany:
 Japan:
 
 * Tokyo:
- - [Rust of Us(https://rust-of-us.doorkeeper.jp/)
+ - [Rust of Us](https://rust-of-us.doorkeeper.jp/)
+ - [Rust Tokyo](http://rust.connpass.com/)
 
 The Netherlands:
 
