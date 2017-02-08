@@ -79,6 +79,11 @@ Germany:
 * Munich:
  - [Rust Meetup Munich](http://www.meetup.com/rust-munich/)
 
+Italy:
+
+* Rome:
+ - [Rust Roma](https://www.meetup.com/Rust-Roma/)
+
 Japan:
 
 * Tokyo:
