@@ -82,6 +82,11 @@ Germany:
 * Munich:
  - [Rust Meetup Munich](http://www.meetup.com/rust-munich/)
 
+Ireland:
+
+* Dublin:
+ - [Rust Dublin](https://www.meetup.com/Rust-Dublin/)
+
 Italy:
 
 * Rome:
@@ -92,6 +97,11 @@ Japan:
 * Tokyo:
  - [Rust of Us](https://rust-of-us.doorkeeper.jp/)
  - [Rust Tokyo](http://rust.connpass.com/)
+
+Mexico:
+
+* Mexico City
+ - [Rust MX](https://www.meetup.com/Rust-MX/)
 
 The Netherlands:
 
