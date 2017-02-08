@@ -61,8 +61,11 @@ Brazil:
 * São Paulo:
  - [Rust São Paulo](http://www.meetup.com/Rust-Sao-Paulo-Meetup)
 
-France:
+Czech Republic:
+* Prague
+ - [Prague Rust](https://www.facebook.com/events/178951015924108)
 
+France:
 * Paris:
  - [Rust Paris](http://www.meetup.com/Rust-Paris/)
 
