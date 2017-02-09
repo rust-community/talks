@@ -53,6 +53,8 @@ other people have requested, here are some ideas:
 
 ## Meetups from around the world:
 
+[Meetups map](https://community.rs/meetup-map/)
+
 Australia:
 * Sydney
  - [Rust Sydney](http://www.meetup.com/Rust-Sydney/)
