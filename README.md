@@ -141,7 +141,7 @@ United States:
  - [Rust Bay Area](http://www.meetup.com/Rust-Bay-Area/)
  - [Rust Hacknights](http://www.meetup.com/SF-Rust-Hacknights/)
 * Seattle, WA:
- - [Seattle Rust Meetup](https://www.eventbrite.com/e/mozilla-rust-seattle-meetup-tickets-12222326307)
+ - [Seattle Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/)
 
 United Kingdom:
  
