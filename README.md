@@ -147,6 +147,8 @@ United Kingdom:
  
 * London:
  - [Rust London User Group](http://www.meetup.com/Rust-London-User-Group/)
+* Cambridge:
+ - [Cambridge Rust Meetup](http://www.meetup.com/Cambridge-Rust-Meetup/)
 
 ---- 
 
