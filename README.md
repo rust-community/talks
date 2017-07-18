@@ -127,6 +127,8 @@ United States:
  - [Brooklyn.rs](http://brooklyn.rs/)
 * Columbus, OH:
  - [Columbus Rust Society](http://www.meetup.com/columbus-rs/)
+* Durham, NC:
+ - [Triangle Rustaceans](https://www.meetup.com/triangle-rustaceans/)
 * Los Angeles, CA:
  - [Rust Los Angeles](http://www.meetup.com/Rust-Los-Angeles)
 * Manhattan, NY:
