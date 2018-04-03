@@ -91,6 +91,8 @@ Ireland:
 
 Italy:
 
+* Milan:
+ - [Rust Milano](https://www.meetup.com/rust-language-milano/)
 * Rome:
  - [Rust Roma](https://www.meetup.com/Rust-Roma/)
 * Turin:
