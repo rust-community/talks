@@ -93,6 +93,8 @@ Italy:
 
 * Rome:
  - [Rust Roma](https://www.meetup.com/Rust-Roma/)
+* Turin:
+ - [Rust Torino](https://www.meetup.com/Rust-Torino/)
 
 Japan:
 
