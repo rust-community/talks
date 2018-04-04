@@ -145,7 +145,6 @@ United States:
  - [San Diego Rust](http://www.meetup.com/San-Diego-Rust)
 * San Francisco, CA:
  - [Rust Bay Area](http://www.meetup.com/Rust-Bay-Area/)
- - [Rust Hacknights](http://www.meetup.com/SF-Rust-Hacknights/)
 * Seattle, WA:
  - [Seattle Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/)
 
