@@ -1,4 +1,6 @@
-If you can't do a talk this month what about next month: #666  ? 
+[click here to create a new talks issue](https://github.com/rust-community/talks/issues/new?template=london-showtell.md&title=LDN+:+Show+and+Tell+Month+Year&labels=LDN,help+wanted,request) (delete this after use)
+
+If you can't do a talk this month what about next month: #666?  (link to next month's meetup) 
 
 - [ ] Date: **__DATE__ @ 6:30PM**
 - [ ] Theme: `None`
