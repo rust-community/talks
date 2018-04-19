@@ -1,12 +1,6 @@
-`__TITLE__`
-LDN : Month Year
+[click here to create a new talks issue](https://github.com/rust-community/talks/issues/new?template=london-talks.md&title=LDN+:+Month+Year&labels=LDN,help+wanted,request) (delete this after use)
 
-`__TAGS__` (remove last one after speaker quota is completed)
-LDN ,  help wanted, request
-
-`__BODY__`
-
-If you can't do a talk this month what about next month: #666  ? 
+If you can't do a talk this month what about next month: #666? (link to next month's meetup)
 
 - [ ] Date: **`__DATE__` @ 6:30PM**
 - [ ] Theme: `None`
