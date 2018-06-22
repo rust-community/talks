@@ -109,6 +109,10 @@ Mexico:
 * Mexico City
  - [Rust MX](https://www.meetup.com/Rust-MX/)
 
+Poland:
+* Wroclaw
+ - [Rust Wroclaw](https://www.meetup.com/Rust-Wroclaw)
+
 The Netherlands:
 
 * Amsterdam
