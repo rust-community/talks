@@ -56,109 +56,77 @@ other people have requested, here are some ideas:
 [Meetups map](https://community.rs/meetup-map/)
 
 Australia:
-* Sydney
- - [Rust Sydney](http://www.meetup.com/Rust-Sydney/)
+* Sydney, [Rust Sydney](http://www.meetup.com/Rust-Sydney/)
 
 Brazil:
-* São Paulo:
- - [Rust São Paulo](http://www.meetup.com/Rust-Sao-Paulo-Meetup)
+* São Paulo, [Rust São Paulo](http://www.meetup.com/Rust-Sao-Paulo-Meetup)
 
 Czech Republic:
-* Prague
- - [Prague Rust](https://www.facebook.com/events/178951015924108)
+* Prague, [Prague Rust](https://www.facebook.com/events/178951015924108)
 
 France:
-* Paris:
- - [Rust Paris](http://www.meetup.com/Rust-Paris/)
+* Paris, [Rust Paris](http://www.meetup.com/Rust-Paris/)
 
 Germany:
 
-* Berlin:
- - [Rust Berlin](http://www.meetup.com/Rust-Berlin/)
-* Cologne:
- - [rust.cologne](http://rust.cologne)
-* Frankfurt/Darmstadt:
- - [Rhein-Main Rust Meetup](http://www.meetup.com/Rust-Rhein-Main)
-* Hamburg:
- - [Rust Meetup Hamburg](http://www.meetup.com/Rust-Meetup-Hamburg)
-* Munich:
- - [Rust Meetup Munich](http://www.meetup.com/rust-munich/)
+* Berlin, [Rust Berlin](http://www.meetup.com/Rust-Berlin/)
+* Cologne, [rust.cologne](http://rust.cologne)
+* Frankfurt/Darmstadt, [Rhein-Main Rust Meetup](http://www.meetup.com/Rust-Rhein-Main)
+* Hamburg, [Rust Meetup Hamburg](http://www.meetup.com/Rust-Meetup-Hamburg)
+* Munich, [Rust Meetup Munich](http://www.meetup.com/rust-munich/)
 
 Ireland:
 
-* Dublin:
- - [Rust Dublin](https://www.meetup.com/Rust-Dublin/)
+* Dublin, [Rust Dublin](https://www.meetup.com/Rust-Dublin/)
 
 Italy:
 
-* Milan:
- - [Rust Milano](https://www.meetup.com/rust-language-milano/)
-* Rome:
- - [Rust Roma](https://www.meetup.com/Rust-Roma/)
-* Turin:
- - [Rust Torino](https://www.meetup.com/Rust-Torino/)
+* Milan, [Rust Milano](https://www.meetup.com/rust-language-milano/)
+* Rome, [Rust Roma](https://www.meetup.com/Rust-Roma/)
+* Turin, [Rust Torino](https://www.meetup.com/Rust-Torino/)
 
 Japan:
 
-* Tokyo:
- - [Rust of Us](https://rust-of-us.doorkeeper.jp/)
- - [Rust Tokyo](http://rust.connpass.com/)
+* Tokyo
+  - [Rust of Us](https://rust-of-us.doorkeeper.jp/)
+  - [Rust Tokyo](http://rust.connpass.com/)
 
 Mexico:
 
-* Mexico City
- - [Rust MX](https://www.meetup.com/Rust-MX/)
+* Mexico City, [Rust MX](https://www.meetup.com/Rust-MX/)
 
 Poland:
 
-* Wroclaw
- - [Rust Wroclaw](https://www.meetup.com/Rust-Wroclaw)
+* Wroclaw, [Rust Wroclaw](https://www.meetup.com/Rust-Wroclaw)
 
 The Netherlands:
 
-* Amsterdam
- - [Rust Amsterdam](http://www.meetup.com/Rust-Amsterdam)
+* Amsterdam, [Rust Amsterdam](http://www.meetup.com/Rust-Amsterdam)
 
 Sweden:
 
-* Skåne:
- - [Rust Skåne](http://www.meetup.com/rust-skane/)
-* Stockholm:
- - [Rust Stockholm](http://www.meetup.com/stockholm-rustlang/)
+* Skåne, [Rust Skåne](http://www.meetup.com/rust-skane/)
+* Stockholm, [Rust Stockholm](http://www.meetup.com/stockholm-rustlang/)
  
 United States:
 
-* Boston,MA:
- - [Boston Rust](http://www.meetup.com/BostonRust/)
-* Boulder/Denver, CO:
- - [Rust Boulder/Denver](http://www.meetup.com/Rust-Boulder-Denver/)
-* Brooklyn, NY:
- - [Brooklyn.rs](http://brooklyn.rs/)
-* Columbus, OH:
- - [Columbus Rust Society](http://www.meetup.com/columbus-rs/)
-* Durham, NC:
- - [Triangle Rustaceans](https://www.meetup.com/triangle-rustaceans/)
-* Los Angeles, CA:
- - [Rust Los Angeles](http://www.meetup.com/Rust-Los-Angeles)
-* Manhattan, NY:
- - [Rust NYC](http://www.meetup.com/Rust-NYC/)
-* Pittsburgh, PA:
- - [Pittsburgh Code Supply](http://www.meetup.com/Pittsburgh-Code-Supply/)
-* Portland, OR:
- - [PDX-Rust](https://groups.google.com/forum/?#!forum/pdx-rust)
-* San Diego, CA:
- - [San Diego Rust](http://www.meetup.com/San-Diego-Rust)
-* San Francisco, CA:
- - [Rust Bay Area](http://www.meetup.com/Rust-Bay-Area/)
-* Seattle, WA:
- - [Seattle Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/)
+* Boston, MA, [Boston Rust](http://www.meetup.com/BostonRust/)
+* Boulder/Denver, CO, [Rust Boulder/Denver](http://www.meetup.com/Rust-Boulder-Denver/)
+* Brooklyn, NY, [Brooklyn.rs](http://brooklyn.rs/)
+* Columbus, OH, [Columbus Rust Society](http://www.meetup.com/columbus-rs/)
+* Durham, NC, [Triangle Rustaceans](https://www.meetup.com/triangle-rustaceans/)
+* Los Angeles, CA, [Rust Los Angeles](http://www.meetup.com/Rust-Los-Angeles)
+* Manhattan, NY, [Rust NYC](http://www.meetup.com/Rust-NYC/)
+* Pittsburgh, PA, [Pittsburgh Code Supply](http://www.meetup.com/Pittsburgh-Code-Supply/)
+* Portland, OR,  [PDX-Rust](https://groups.google.com/forum/?#!forum/pdx-rust)
+* San Diego, CA,  [San Diego Rust](http://www.meetup.com/San-Diego-Rust)
+* San Francisco, CA,  [Rust Bay Area](http://www.meetup.com/Rust-Bay-Area/)
+* Seattle, WA, [Seattle Rust Meetup](https://www.meetup.com/Seattle-Rust-Meetup/)
 
 United Kingdom:
  
-* London:
- - [Rust London User Group](http://www.meetup.com/Rust-London-User-Group/)
-* Cambridge:
- - [Cambridge Rust Meetup](http://www.meetup.com/Cambridge-Rust-Meetup/)
+* London, [Rust London User Group](http://www.meetup.com/Rust-London-User-Group/)
+* Cambridge, [Cambridge Rust Meetup](http://www.meetup.com/Cambridge-Rust-Meetup/)
 
 ---- 
 
