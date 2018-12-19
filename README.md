@@ -103,6 +103,11 @@ The Netherlands:
 
 * Amsterdam, [Rust Amsterdam](http://www.meetup.com/Rust-Amsterdam)
 
+Spain:
+
+* Barcelona, [BcnRust](https://www.meetup.com/BcnRust)
+* Madrid, [MadRust](https://www.meetup.com/MadRust)
+
 Sweden:
 
 * Skåne, [Rust Skåne](http://www.meetup.com/rust-skane/)
