@@ -91,6 +91,11 @@ Japan:
   - [Rust of Us](https://rust-of-us.doorkeeper.jp/)
   - [Rust Tokyo](http://rust.connpass.com/)
 
+Malaysia:
+
+* Kuala Lumpur
+  - Meetup is too expensive, check [Rust Lang Malaysia](https://www.facebook.com/groups/1876280775927500/) or Telegram Group `¯\_(ツ)_/¯`
+
 Mexico:
 
 * Mexico City, [Rust MX](https://www.meetup.com/Rust-MX/)
