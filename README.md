@@ -94,7 +94,7 @@ Japan:
 Malaysia:
 
 * Kuala Lumpur
-  - Meetup is too expensive, check [Rust Lang Malaysia](https://www.facebook.com/groups/1876280775927500/) or Telegram Group `¯\_(ツ)_/¯`
+  - [Rust Lang Malaysia Facebook](https://www.facebook.com/groups/1876280775927500/) or [Telegram Group](https://t.me/golangmalaysia)
 
 Mexico:
 
