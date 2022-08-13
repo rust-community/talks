@@ -104,6 +104,10 @@ Poland:
 
 * Wroclaw, [Rust Wroclaw](https://www.meetup.com/Rust-Wroclaw)
 
+Thailand:
+
+* [Rustacean Thailand](https://www.facebook.com/rustaceansthailand)
+
 The Netherlands:
 
 * Amsterdam, [Rust Amsterdam](http://www.meetup.com/Rust-Amsterdam)
