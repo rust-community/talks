@@ -58,6 +58,9 @@ other people have requested, here are some ideas:
 Australia:
 * Sydney, [Rust Sydney](http://www.meetup.com/Rust-Sydney/)
 
+Austria:
+* Linz, [Rust Linz](https://rust-linz.at/)
+
 Brazil:
 * São Paulo, [Rust São Paulo](http://www.meetup.com/Rust-Sao-Paulo-Meetup)
 
